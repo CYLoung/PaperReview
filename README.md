@@ -5,7 +5,6 @@
 - 리뷰는 [Issues](https://github.com/CYLoung/PaperReview/issues)를 통해서 등록하고 연구 분야를 Label로 구분하도록하겠습니다.
 
 
-
 # ✨Code Practices ✨
 - 코드는 code_practices folder 를 참고해 주세요
 ## Purpose paper
