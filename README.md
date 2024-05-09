@@ -8,6 +8,7 @@
 # Code Practices ✨
 - 코드는 code_practices folder 를 참고해 주세요
 ## Purpose paper
+### Basic Model
 - EfficientNet
 - Yolo
 - RetinaNet
@@ -21,8 +22,11 @@
 - grad-CAM
 - VoxelNet
 
-### Object Tracking
+### [Object Tracking](https://paperswithcode.com/task/multi-object-tracking)
 - [2014] A Survey on Object Detection and Tracking Methods
 - Simple Online and Realtime Tracking
 - Tracking Everything Everywhere All at Once
 - FairMOT : A Simple Baseline for Multi-Object Tracking
+
+### [6dof Pose estimation](https://paperswithcode.com/task/6d-pose-estimation)
+- [Instance-Adaptive and Geometric-Aware Keypoint Learning for Category-Level 6D Object Pose Estimation](https://arxiv.org/pdf/2403.19527v1)
