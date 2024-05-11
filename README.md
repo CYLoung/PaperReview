@@ -21,6 +21,7 @@
 - CAM
 - grad-CAM
 - VoxelNet
+- [VanillaNet]
 
 ### [Object Tracking](https://paperswithcode.com/task/multi-object-tracking)
 - [2014] A Survey on Object Detection and Tracking Methods
