@@ -31,3 +31,6 @@
 
 ### [6dof Pose estimation](https://paperswithcode.com/task/6d-pose-estimation)
 - [Instance-Adaptive and Geometric-Aware Keypoint Learning for Category-Level 6D Object Pose Estimation](https://arxiv.org/pdf/2403.19527v1)
+
+### Object & Robot
+- [Indirect Object-to-Robot Pose Estimation from an External Monocular RGB Camera]
