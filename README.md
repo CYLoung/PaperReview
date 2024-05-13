@@ -8,7 +8,7 @@
 # Code Practices ✨
 - 코드는 code_practices folder 를 참고해 주세요
 ## Purpose paper
-### Basic Model
+### Basic Model (정리해두기!)
 - EfficientNet
 - Yolo
 - RetinaNet
