@@ -34,3 +34,9 @@
 
 ### Object & Robot
 - [Indirect Object-to-Robot Pose Estimation from an External Monocular RGB Camera]
+
+
+
+# [ICRA 2024](https://arxiv.org/search/?query=icra2024&searchtype=all&source=header)
+- [Localization - MegaParticles: Range-based 6-DoF Monte Carlo Localization with GPU-Accelerated Stein Particle Filter](https://arxiv.org/abs/2404.16370)
+
