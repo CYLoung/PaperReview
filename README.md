@@ -9,6 +9,7 @@
 - 코드는 code_practices folder 를 참고해 주세요
 ## Purpose paper
 ### Basic Model (정리해두기!)
+- InternImage
 - EfficientNet
 - Yolo
 - RetinaNet
