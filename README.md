@@ -36,6 +36,17 @@
 ### Object & Robot
 - [Indirect Object-to-Robot Pose Estimation from an External Monocular RGB Camera]
 
+### Bird Eye Fusion
+- LSS
+- CVT
+- BEVFusion
+- SimpleBEV
+- BEVFormer
+- PointBEV
+- PETRv2
+- TBP-Former
+
+
 
 
 # [ICRA 2024](https://arxiv.org/search/?query=icra2024&searchtype=all&source=header)
