@@ -44,7 +44,7 @@
 - TBP-Former
 
 
-# [ICRA 2024](https://arxiv.org/search/?query=icra2024&searchtype=all&source=header)
+### [ICRA 2024](https://arxiv.org/search/?query=icra2024&searchtype=all&source=header)
 - [Localization - MegaParticles: Range-based 6-DoF Monte Carlo Localization with GPU-Accelerated Stein Particle Filter](https://arxiv.org/abs/2404.16370)
 
 ## RL / IL / Robot Learning 
